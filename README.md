@@ -1,5 +1,14 @@
 # CalculateMaxPathSum
 
+*Solution  
+     -I take the input and convert to 2D array (read from file is also included)
+     -Removed spaces and empty lines
+     -Check all the 2D matrix if the there is'Prime Numbers'
+     -Make Prime numbers '-1'
+     -Moving downwards by calculating the max possible ways
+
+
+
 *Question1: You will have an orthogonal triangle input from a file and you need to find the maximum sum of the numbers according to given rules below;
 
 1. You will start from the top and move downwards to an adjacent number as in below.
